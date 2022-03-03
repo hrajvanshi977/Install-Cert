@@ -18,7 +18,7 @@ public class InstallCert {
 
     public static void main(String[] args) throws Exception {
 
-        String host       = "artifactory.idfcbank.com";
+        String host       = "";
         int    port       = 443;
         char[] passphrase = "changeit".toCharArray();
 
